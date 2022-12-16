@@ -1,0 +1,2 @@
+# Urecipy
+Urecipy is your personal recipe notebook as it allows you to generate the ingredients and procedure in proper format from unstructured recipes (in a text or video URL format). The application performs processing on given text/speech and makes use of state of the art technology to give its users the desired result, so they don't have to waste time in going through whole passages of text or videos. Hope the product is helpful for you!
